@@ -1,0 +1,740 @@
+Statistic: Req_Age
+Top 3 Highest:
+  Łukasz Fabiański: 40.0
+  Ashley Young: 39.0
+  James Milner: 39.0
+Top 3 Lowest:
+  Chidozie Obi-Martin: 17.0
+  Mikey Moore: 17.0
+  Ayden Heaven: 18.0
+
+Statistic: Pltime_matches_played
+Top 3 Highest:
+  Alex Iwobi: 35.0
+  Anthony Elanga: 35.0
+  Bernd Leno: 35.0
+Top 3 Lowest:
+  Altay Bayındır: 2.0
+  Ayden Heaven: 2.0
+  Billy Gilmour: 2.0
+
+Statistic: Pltime_starts
+Top 3 Highest:
+  Bernd Leno: 35.0
+  Bruno Guimarães: 35.0
+  Bryan Mbeumo: 35.0
+Top 3 Lowest:
+  Ali Al Hamadi: 0.0
+  Antony: 0.0
+  Ben Chilwell: 0.0
+
+Statistic: Pltime_minutes
+Top 3 Highest:
+  Bernd Leno: 3150.0
+  David Raya: 3150.0
+  Dean Henderson: 3150.0
+Top 3 Lowest:
+  Ayden Heaven: 95.0
+  Jahmai Simpson-Pusey: 96.0
+  Billy Gilmour: 98.0
+
+Statistic: Perf_goals
+Top 3 Highest:
+  Mohamed Salah: 28.0
+  Alexander Isak: 23.0
+  Erling Haaland: 21.0
+Top 3 Lowest:
+  Aaron Cresswell: 0.0
+  Aaron Ramsdale: 0.0
+  Abdukodir Khusanov: 0.0
+
+Statistic: Perf_assists
+Top 3 Highest:
+  Mohamed Salah: 18.0
+  Jacob Murphy: 11.0
+  Antonee Robinson: 10.0
+Top 3 Lowest:
+  Aaron Cresswell: 0.0
+  Aaron Ramsdale: 0.0
+  Abdukodir Khusanov: 0.0
+
+Statistic: Perf_yellow_cards
+Top 3 Highest:
+  Saša Lukić: 12.0
+  Morgan Gibbs-White: 11.0
+  Will Hughes: 11.0
+Top 3 Lowest:
+  Abdul Fatawu Issahaku: 0.0
+  Adam Webster: 0.0
+  Albert Grønbaek: 0.0
+
+Statistic: Perf_red_cards
+Top 3 Highest:
+  Bruno Fernandes: 2.0
+  Jack Stephens: 2.0
+  Myles Lewis-Skelly: 2.0
+Top 3 Lowest:
+  Aaron Cresswell: 0.0
+  Aaron Ramsdale: 0.0
+  Aaron Wan-Bissaka: 0.0
+
+Statistic: Exp_xG
+Top 3 Highest:
+  Mohamed Salah: 24.0
+  Erling Haaland: 20.8
+  Alexander Isak: 19.9
+Top 3 Lowest:
+  Aaron Ramsdale: 0.0
+  Abdukodir Khusanov: 0.0
+  Adam Webster: 0.0
+
+Statistic: Exp_xAG
+Top 3 Highest:
+  Mohamed Salah: 13.2
+  Cole Palmer: 10.0
+  Son Heung-min: 8.2
+Top 3 Lowest:
+  Aaron Ramsdale: 0.0
+  Albert Grønbaek: 0.0
+  Alex McCarthy: 0.0
+
+Statistic: Prog_PrgC
+Top 3 Highest:
+  Jeremy Doku: 189.0
+  Mohamed Salah: 143.0
+  Noni Madueke: 142.0
+Top 3 Lowest:
+  Aaron Ramsdale: 0.0
+  Alex McCarthy: 0.0
+  Alex Palmer: 0.0
+
+Statistic: Prog_PrgP
+Top 3 Highest:
+  Bruno Fernandes: 281.0
+  Joško Gvardiol: 251.0
+  Bruno Guimarães: 247.0
+Top 3 Lowest:
+  Aaron Ramsdale: 0.0
+  Alex McCarthy: 0.0
+  Alisson: 0.0
+
+Statistic: Prog_PrgR
+Top 3 Highest:
+  Mohamed Salah: 440.0
+  Bryan Mbeumo: 319.0
+  Alejandro Garnacho: 281.0
+Top 3 Lowest:
+  Aaron Ramsdale: 0.0
+  Alex McCarthy: 0.0
+  Alex Palmer: 0.0
+
+Statistic: per90_Gls
+Top 3 Highest:
+  Jáder Durán: 0.99
+  Donyell Malen: 0.92
+  James Mcatee: 0.89
+Top 3 Lowest:
+  Aaron Cresswell: 0.0
+  Aaron Ramsdale: 0.0
+  Abdukodir Khusanov: 0.0
+
+Statistic: per90_Ast
+Top 3 Highest:
+  Tyrique George: 0.87
+  Danny Ings: 0.63
+  Bukayo Saka: 0.58
+Top 3 Lowest:
+  Aaron Cresswell: 0.0
+  Aaron Ramsdale: 0.0
+  Abdukodir Khusanov: 0.0
+
+Statistic: per90_xG
+Top 3 Highest:
+  James Mcatee: 0.83
+  Erling Haaland: 0.76
+  Danny Ings: 0.72
+Top 3 Lowest:
+  Aaron Ramsdale: 0.0
+  Abdukodir Khusanov: 0.0
+  Adam Webster: 0.0
+
+Statistic: per90_xGA
+Top 3 Highest:
+  Tyrique George: 0.63
+  Mykhailo Mudryk: 0.58
+  Luis Sinisterra: 0.54
+Top 3 Lowest:
+  Aaron Ramsdale: 0.0
+  Alex McCarthy: 0.0
+  Alex Palmer: 0.0
+
+Statistic: GK_GA90
+Top 3 Highest:
+  Altay Bayındır: 4.0
+  Danny Ward: 4.0
+  Christian Walton: 2.67
+Top 3 Lowest:
+  Jason Steele: 0.5
+  David Raya: 0.89
+  Alisson: 0.92
+
+Statistic: GK_Save%
+Top 3 Highest:
+  Neto: 84.6
+  Mark Travers: 80.0
+  Robert Sánchez: 76.3
+Top 3 Lowest:
+  Altay Bayındır: 33.3
+  Danny Ward: 40.0
+  Hákon Rafn Valdimarsson: 50.0
+
+Statistic: GK_CS%
+Top 3 Highest:
+  Hákon Rafn Valdimarsson: 100.0
+  Robin Olsen: 100.0
+  Jason Steele: 50.0
+Top 3 Lowest:
+  Alex McCarthy: 0.0
+  Alex Palmer: 0.0
+  Altay Bayındır: 0.0
+
+Statistic: GK_PK_Save%
+Top 3 Highest:
+  Caoimhín Kelleher: 100.0
+  Jordan Pickford: 100.0
+  Dean Henderson: 50.0
+Top 3 Lowest:
+  Alex McCarthy: 0.0
+  Alex Palmer: 0.0
+  Alisson: 0.0
+
+Statistic: Shoot_SoT%
+Top 3 Highest:
+  Adam Webster: 100.0
+  Archie Gray: 100.0
+  Conor Coady: 100.0
+Top 3 Lowest:
+  Aaron Cresswell: 0.0
+  Abdukodir Khusanov: 0.0
+  Adam Lallana: 0.0
+
+Statistic: Shoot_SoT/90
+Top 3 Highest:
+  Julio Enciso: 3.37
+  Donyell Malen: 2.76
+  Luis Sinisterra: 2.29
+Top 3 Lowest:
+  Aaron Cresswell: 0.0
+  Aaron Ramsdale: 0.0
+  Abdukodir Khusanov: 0.0
+
+Statistic: Shoot_G/Sh
+Top 3 Highest:
+  John Stones: 1.0
+  Axel Disasi: 0.5
+  Myles Lewis-Skelly: 0.5
+Top 3 Lowest:
+  Aaron Cresswell: 0.0
+  Abdukodir Khusanov: 0.0
+  Abdul Fatawu Issahaku: 0.0
+
+Statistic: Shoot_Dist
+Top 3 Highest:
+  Ibrahim Sangaré: 32.0
+  Emmanuel Agbadou: 31.8
+  Ryan Fraser: 31.6
+Top 3 Lowest:
+  Kieran Tierney: 2.6
+  Harry Clarke: 4.5
+  John Stones: 5.1
+
+Statistic: Pass_Cmp
+Top 3 Highest:
+  Virgil van Dijk: 2543.0
+  Joško Gvardiol: 2321.0
+  William Saliba: 2320.0
+Top 3 Lowest:
+  William Osula: 11.0
+  Albert Grønbaek: 13.0
+  Odsonne Édouard: 17.0
+
+Statistic: Pass_Cmp%
+Top 3 Highest:
+  William Saliba: 94.2
+  Manuel Akanji: 93.9
+  Nathan Aké: 93.9
+Top 3 Lowest:
+  Matz Sels: 51.1
+  Altay Bayındır: 55.5
+  George Hirst: 55.8
+
+Statistic: Pass_TotDist
+Top 3 Highest:
+  Virgil van Dijk: 46352.0
+  Levi Colwill: 40277.0
+  William Saliba: 39927.0
+Top 3 Lowest:
+  William Osula: 126.0
+  Albert Grønbaek: 135.0
+  Odsonne Édouard: 230.0
+
+Statistic: Pass_cpt_short
+Top 3 Highest:
+  Altay Bayındır: 100.0
+  Antonín Kinský: 100.0
+  Arijanet Muric: 100.0
+Top 3 Lowest:
+  William Osula: 61.5
+  Paul Onuachu: 62.9
+  George Hirst: 66.7
+
+Statistic: Pass_cpt_medium
+Top 3 Highest:
+  Alex Palmer: 100.0
+  Caoimhín Kelleher: 100.0
+  Danny Ward: 100.0
+Top 3 Lowest:
+  Albert Grønbaek: 50.0
+  Beto: 50.0
+  George Hirst: 50.0
+
+Statistic: Pass_cpt_long
+Top 3 Highest:
+  Andy Irving: 100.0
+  Antony: 100.0
+  Chiedozie Ogbene: 100.0
+Top 3 Lowest:
+  Enes Ünal: 0.0
+  Ross Stewart: 0.0
+  Tyrique George: 0.0
+
+Statistic: Pass_KP
+Top 3 Highest:
+  Bruno Fernandes: 84.0
+  Cole Palmer: 82.0
+  Mohamed Salah: 82.0
+Top 3 Lowest:
+  Aaron Ramsdale: 0.0
+  Alex McCarthy: 0.0
+  Alphonse Areola: 0.0
+
+Statistic: Pass_1/3
+Top 3 Highest:
+  Virgil van Dijk: 269.0
+  Joško Gvardiol: 237.0
+  Youri Tielemans: 228.0
+Top 3 Lowest:
+  Ali Al Hamadi: 0.0
+  Chiedozie Ogbene: 0.0
+  Jason Steele: 0.0
+
+Statistic: Pass_PPA
+Top 3 Highest:
+  Mohamed Salah: 86.0
+  Martin Ødegaard: 81.0
+  Alex Iwobi: 78.0
+Top 3 Lowest:
+  Abdukodir Khusanov: 0.0
+  Albert Grønbaek: 0.0
+  Alex McCarthy: 0.0
+
+Statistic: Pass_CrsPA
+Top 3 Highest:
+  Antonee Robinson: 28.0
+  Pedro Porro: 26.0
+  Milos Kerkez: 23.0
+Top 3 Lowest:
+  Aaron Ramsdale: 0.0
+  Abdoulaye Doucouré: 0.0
+  Abdukodir Khusanov: 0.0
+
+Statistic: Pass_PrgP
+Top 3 Highest:
+  Bruno Fernandes: 281.0
+  Joško Gvardiol: 251.0
+  Bruno Guimarães: 247.0
+Top 3 Lowest:
+  Aaron Ramsdale: 0.0
+  Alex McCarthy: 0.0
+  Alisson: 0.0
+
+Statistic: GnS_SCA
+Top 3 Highest:
+  Cole Palmer: 190.0
+  Bruno Fernandes: 169.0
+  Mohamed Salah: 157.0
+Top 3 Lowest:
+  Alex McCarthy: 0.0
+  Altay Bayındır: 0.0
+  Ben Mee: 0.0
+
+Statistic: GnS_SCA90
+Top 3 Highest:
+  Philip Billing: 7.83
+  Luis Guilherme: 6.52
+  Kevin De Bruyne: 6.08
+Top 3 Lowest:
+  Alex McCarthy: 0.0
+  Altay Bayındır: 0.0
+  Ben Mee: 0.0
+
+Statistic: GnS_GCA
+Top 3 Highest:
+  Mohamed Salah: 26.0
+  Bukayo Saka: 22.0
+  Mikkel Damsgaard: 21.0
+Top 3 Lowest:
+  Aaron Cresswell: 0.0
+  Aaron Ramsdale: 0.0
+  Abdukodir Khusanov: 0.0
+
+Statistic: GnS_GCA90
+Top 3 Highest:
+  Bukayo Saka: 1.29
+  Solly March: 1.08
+  Amad Diallo: 0.93
+Top 3 Lowest:
+  Aaron Cresswell: 0.0
+  Aaron Ramsdale: 0.0
+  Abdukodir Khusanov: 0.0
+
+Statistic: Defen_Tkl
+Top 3 Highest:
+  Idrissa Gana Gueye: 124.0
+  Daniel Muñoz: 113.0
+  João Gomes: 105.0
+Top 3 Lowest:
+  Aaron Ramsdale: 0.0
+  Alex McCarthy: 0.0
+  Alex Palmer: 0.0
+
+Statistic: Defen_TklW
+Top 3 Highest:
+  Daniel Muñoz: 74.0
+  Idrissa Gana Gueye: 74.0
+  Moisés Caicedo: 64.0
+Top 3 Lowest:
+  Aaron Ramsdale: 0.0
+  Alex McCarthy: 0.0
+  Alex Palmer: 0.0
+
+Statistic: Defen_Att
+Top 3 Highest:
+  Aaron Cresswell: nan
+  Aaron Ramsdale: nan
+  Aaron Wan-Bissaka: nan
+Top 3 Lowest:
+  Aaron Cresswell: nan
+  Aaron Ramsdale: nan
+  Aaron Wan-Bissaka: nan
+
+Statistic: Defen_Lost
+Top 3 Highest:
+  Aaron Cresswell: nan
+  Aaron Ramsdale: nan
+  Aaron Wan-Bissaka: nan
+Top 3 Lowest:
+  Aaron Cresswell: nan
+  Aaron Ramsdale: nan
+  Aaron Wan-Bissaka: nan
+
+Statistic: Defen_Blocks
+Top 3 Highest:
+  Nathan Collins: 71.0
+  Murillo: 67.0
+  Tyrick Mitchell: 62.0
+Top 3 Lowest:
+  Aaron Ramsdale: 0.0
+  Alex McCarthy: 0.0
+  Alex Palmer: 0.0
+
+Statistic: Defen_Sh
+Top 3 Highest:
+  Nathan Collins: 51.0
+  Dara O'Shea: 47.0
+  Murillo: 44.0
+Top 3 Lowest:
+  Aaron Ramsdale: 0.0
+  Abdul Fatawu Issahaku: 0.0
+  Adama Traoré: 0.0
+
+Statistic: Defen_Pass
+Top 3 Highest:
+  Alexis Mac Allister: 55.0
+  Antoine Semenyo: 51.0
+  Tyrick Mitchell: 50.0
+Top 3 Lowest:
+  Aaron Ramsdale: 0.0
+  Albert Grønbaek: 0.0
+  Alex McCarthy: 0.0
+
+Statistic: Defen_Int
+Top 3 Highest:
+  Aaron Wan-Bissaka: 60.0
+  Antonee Robinson: 57.0
+  Ryan Gravenberch: 57.0
+Top 3 Lowest:
+  Albert Grønbaek: 0.0
+  Alex McCarthy: 0.0
+  Alex Palmer: 0.0
+
+Statistic: Poss_touches
+Top 3 Highest:
+  Virgil van Dijk: 3125.0
+  Joško Gvardiol: 2903.0
+  Levi Colwill: 2728.0
+Top 3 Lowest:
+  Albert Grønbaek: 38.0
+  William Osula: 41.0
+  Chidozie Obi-Martin: 44.0
+
+Statistic: Poss_Def_Pen
+Top 3 Highest:
+  Mark Flekken: 1338.0
+  Bernd Leno: 1097.0
+  Bart Verbruggen: 1034.0
+Top 3 Lowest:
+  Emi Buendía: 0.0
+  Callum Wilson: 1.0
+  Evan Ferguson: 1.0
+
+Statistic: Poss_Def_3rd
+Top 3 Highest:
+  Mark Flekken: 1660.0
+  Jordan Pickford: 1494.0
+  Bernd Leno: 1354.0
+Top 3 Lowest:
+  William Osula: 2.0
+  Odsonne Édouard: 4.0
+  Callum Wilson: 5.0
+
+Statistic: Poss_Mid_3rd
+Top 3 Highest:
+  Virgil van Dijk: 1719.0
+  William Saliba: 1519.0
+  Joško Gvardiol: 1474.0
+Top 3 Lowest:
+  Alex McCarthy: 0.0
+  Danny Ward: 0.0
+  Fraser Forster: 0.0
+
+Statistic: Poss_Att_3rd
+Top 3 Highest:
+  Mohamed Salah: 1023.0
+  Bryan Mbeumo: 913.0
+  Bruno Fernandes: 888.0
+Top 3 Lowest:
+  Aaron Ramsdale: 0.0
+  Alex McCarthy: 0.0
+  Alex Palmer: 0.0
+
+Statistic: Poss_Att_Pen
+Top 3 Highest:
+  Mohamed Salah: 327.0
+  Alexander Isak: 178.0
+  Antoine Semenyo: 176.0
+Top 3 Lowest:
+  Aaron Ramsdale: 0.0
+  Alex McCarthy: 0.0
+  Alex Palmer: 0.0
+
+Statistic: Poss_Att
+Top 3 Highest:
+  Mohamed Salah: 1023.0
+  Bryan Mbeumo: 913.0
+  Bruno Fernandes: 888.0
+Top 3 Lowest:
+  Aaron Ramsdale: 0.0
+  Alex McCarthy: 0.0
+  Alex Palmer: 0.0
+
+Statistic: Poss_Succ%
+Top 3 Highest:
+  Alisson: 100.0
+  Andy Irving: 100.0
+  Axel Disasi: 100.0
+Top 3 Lowest:
+  Abdukodir Khusanov: 0.0
+  Albert Grønbaek: 0.0
+  Armel Bella Kotchap: 0.0
+
+Statistic: Poss_Tkld%
+Top 3 Highest:
+  Abdukodir Khusanov: 100.0
+  Albert Grønbaek: 100.0
+  Armel Bella Kotchap: 100.0
+Top 3 Lowest:
+  Alisson: 0.0
+  Andy Irving: 0.0
+  Axel Disasi: 0.0
+
+Statistic: Poss_Carries
+Top 3 Highest:
+  Joško Gvardiol: 1886.0
+  Virgil van Dijk: 1746.0
+  William Saliba: 1675.0
+Top 3 Lowest:
+  Harry Toffolo: 17.0
+  Albert Grønbaek: 18.0
+  Chidozie Obi-Martin: 22.0
+
+Statistic: Poss_PrgDist
+Top 3 Highest:
+  Jan Paul van Hecke: 6740.0
+  Joško Gvardiol: 5715.0
+  Rúben Dias: 5295.0
+Top 3 Lowest:
+  Albert Grønbaek: 15.0
+  Harry Toffolo: 23.0
+  Massimo Luongo: 25.0
+
+Statistic: Poss_PrgC
+Top 3 Highest:
+  Jeremy Doku: 189.0
+  Mohamed Salah: 143.0
+  Noni Madueke: 142.0
+Top 3 Lowest:
+  Aaron Ramsdale: 0.0
+  Alex McCarthy: 0.0
+  Alex Palmer: 0.0
+
+Statistic: Poss_1/3
+Top 3 Highest:
+  Alex Iwobi: 102.0
+  Joško Gvardiol: 92.0
+  Jeremy Doku: 88.0
+Top 3 Lowest:
+  Aaron Ramsdale: 0.0
+  Albert Grønbaek: 0.0
+  Alex McCarthy: 0.0
+
+Statistic: Poss_CPA
+Top 3 Highest:
+  Mohamed Salah: 115.0
+  Jeremy Doku: 90.0
+  Noni Madueke: 87.0
+Top 3 Lowest:
+  Aaron Cresswell: 0.0
+  Aaron Ramsdale: 0.0
+  Abdukodir Khusanov: 0.0
+
+Statistic: Poss_Mis
+Top 3 Highest:
+  Mohamed Salah: 109.0
+  Morgan Rogers: 104.0
+  Bryan Mbeumo: 99.0
+Top 3 Lowest:
+  Alex McCarthy: 0.0
+  Alphonse Areola: 0.0
+  Altay Bayındır: 0.0
+
+Statistic: Poss_Dis
+Top 3 Highest:
+  Mohammed Kudus: 89.0
+  Bruno Guimarães: 73.0
+  Dejan Kulusevski: 73.0
+Top 3 Lowest:
+  Aaron Cresswell: 0.0
+  Aaron Ramsdale: 0.0
+  Alex McCarthy: 0.0
+
+Statistic: Poss_Rec
+Top 3 Highest:
+  Virgil van Dijk: 2153.0
+  Joško Gvardiol: 2132.0
+  William Saliba: 2056.0
+Top 3 Lowest:
+  Albert Grønbaek: 21.0
+  Odsonne Édouard: 26.0
+  William Osula: 27.0
+
+Statistic: Poss_PrgR
+Top 3 Highest:
+  Mohamed Salah: 440.0
+  Bryan Mbeumo: 319.0
+  Alejandro Garnacho: 281.0
+Top 3 Lowest:
+  Aaron Ramsdale: 0.0
+  Alex McCarthy: 0.0
+  Alex Palmer: 0.0
+
+Statistic: Misc_Fls
+Top 3 Highest:
+  João Gomes: 67.0
+  Liam Delap: 67.0
+  Antoine Semenyo: 66.0
+Top 3 Lowest:
+  Albert Grønbaek: 0.0
+  Alex McCarthy: 0.0
+  Alisson: 0.0
+
+Statistic: Misc_Fld
+Top 3 Highest:
+  Bruno Guimarães: 100.0
+  Matheus Cunha: 69.0
+  John McGinn: 67.0
+Top 3 Lowest:
+  Alphonse Areola: 0.0
+  Altay Bayındır: 0.0
+  Andrés García: 0.0
+
+Statistic: Misc_Off
+Top 3 Highest:
+  Dominic Calvert-Lewin: 27.0
+  Chris Wood: 26.0
+  Jamie Vardy: 25.0
+Top 3 Lowest:
+  Aaron Cresswell: 0.0
+  Aaron Ramsdale: 0.0
+  Abdukodir Khusanov: 0.0
+
+Statistic: Misc_Crs
+Top 3 Highest:
+  Pedro Porro: 191.0
+  Bryan Mbeumo: 182.0
+  Bruno Fernandes: 172.0
+Top 3 Lowest:
+  Aaron Ramsdale: 0.0
+  Alex McCarthy: 0.0
+  Alex Palmer: 0.0
+
+Statistic: Misc_Recov
+Top 3 Highest:
+  Moisés Caicedo: 203.0
+  Elliot Anderson: 197.0
+  Bruno Fernandes: 192.0
+Top 3 Lowest:
+  Altay Bayındır: 0.0
+  Danny Ward: 1.0
+  Fraser Forster: 1.0
+
+Statistic: Misc_Won
+Top 3 Highest:
+  Dan Burn: 134.0
+  Nathan Collins: 112.0
+  Virgil van Dijk: 111.0
+Top 3 Lowest:
+  Andrés García: 0.0
+  Antony: 0.0
+  Billy Gilmour: 0.0
+
+Statistic: Misc_Lost
+Top 3 Highest:
+  Chris Wood: 129.0
+  Jean-Philippe Mateta: 99.0
+  Jørgen Strand Larsen: 96.0
+Top 3 Lowest:
+  Aaron Ramsdale: 0.0
+  Albert Grønbaek: 0.0
+  Alex McCarthy: 0.0
+
+Statistic: Misc_Won%
+Top 3 Highest:
+  Aaron Ramsdale: 100.0
+  Albert Grønbaek: 100.0
+  Alex McCarthy: 100.0
+Top 3 Lowest:
+  Andrés García: 0.0
+  Antony: 0.0
+  Emi Buendía: 0.0
+
